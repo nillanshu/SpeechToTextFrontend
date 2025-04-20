@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://nillanshu.github.io/SpeechToTextFrontend",
+  "homepage": "https://nillanshu.github.io/SpeechToTextFrontend/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
